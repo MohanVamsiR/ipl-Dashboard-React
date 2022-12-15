@@ -4,10 +4,12 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 45vw;
+  width: 35vw;
   border-radius: 5px;
   border: 1px solid #ffffff;
   background-color: #475569;
+  flex-wrap: wrap;
+  margin: 10px;
 }
 .team-image {
   width: 40px;
